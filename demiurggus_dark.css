@@ -221,12 +221,12 @@ ul.thin li {
 /* Layout (Every page) */
 
 #header {
-    background: url('images/logo_natal.png') no-repeat top center;
-    background-color: #339eb8;
-  /*background: url('images/header.jpg') repeat-x top center;*/
-  /*background: url('images/fundo-clean.jpg') repeat-x top center;*/
-    width: 100%;
-    padding: 0px 0 0 0;
+	background: url('images/logo_natal.png') no-repeat top center;
+	background-color: #339eb8;
+	/*background: url('images/header.jpg') repeat-x top center;*/
+	/*background: url('images/fundo-clean.jpg') repeat-x top center;*/
+	width: 100%;
+	padding: 0px 0 0 0;
 }
 
 #content {
@@ -375,7 +375,7 @@ ul.thin li {
 #userinfo {
     background-color: #F2F2F2;
     position: absolute;
-    top: 299px;
+    top: 32px;
     padding: 4px 0px;
     width: 100%;
     color: #444;
