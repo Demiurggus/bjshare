@@ -266,7 +266,7 @@ ul.thin li {
 }
 
 #menu {
-    background-color: #e4e4e4;;
+    background-color: #3e3e3e;
     position: fixed;
     top: 0px;
     width: 100%;
@@ -306,7 +306,7 @@ ul.thin li {
 
 #menudrop ul a {
     display: block;
-    color: #2b2b2b;
+    color: #bdbdbd;
     text-decoration: none;
     font-weight: 700;
     font-size: 12px;
@@ -315,8 +315,8 @@ ul.thin li {
 }
 
 #menudrop ul li {
-    border-left: 1px solid #EEE;
-    border-right: 1px solid #CACBCA;
+    border-left: 1px solid #565656;
+    border-right: 1px solid #545454;
     position: relative;
     float: left;
     margin: 0;
