@@ -448,6 +448,7 @@ ul.thin li {
     padding: 8px 8px 8px 26px;
     font-size: 90%;
     color: #909090;
+	width: 200px;
 }
 
 #searchbars ul {
@@ -512,8 +513,8 @@ ul.thin li {
     background-color: #fff5c2;
     color: #222;
     margin: 0px auto 0px auto;
-    padding: 15px;
-    width: 935px;
+    padding: 8px;
+    width: 100%;
     font-weight: bold;
     font-size: 0.95em;
     border-radius: 2px;
