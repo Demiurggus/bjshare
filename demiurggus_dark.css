@@ -267,12 +267,12 @@ ul.thin li {
 
 #menu {
     background-color: #e4e4e4;;
-    position: absolute;
-    top: 267px;
+    position: fixed;
+    top: 0px;
     width: 100%;
     text-align: center;
     font-size: 13px;
-    z-index: 1001;
+    z-index: 7001;
 }
 
 #centertopmenu {
