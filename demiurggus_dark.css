@@ -270,9 +270,11 @@ ul.thin li {
     position: fixed;
     top: 0px;
     width: 100%;
+	min-width: 950px;
     text-align: center;
     font-size: 13px;
     z-index: 7001;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.01), 0 2px 3px 0 rgba(0, 0, 0, 0.01);
 }
 
 #centertopmenu {
@@ -375,8 +377,8 @@ ul.thin li {
 #userinfo {
     background-color: #F2F2F2;
     position: absolute;
-    top: 32px;
-    padding: 4px 0px;
+    top: 33px;
+    padding: 10px;
     width: 100%;
     color: #444;
     text-align: center;
@@ -431,8 +433,9 @@ ul.thin li {
 
 #searchbars {
     position: absolute;
-    top: 287px;
+    top: 295px;
     width: 100%;
+	min-width: 950px;
     text-align: center;
     padding: 4px 0px;
 }
