@@ -445,7 +445,7 @@ ul.thin li {
     background: #3e3e3e url('images/search.png') no-repeat center left;
     border: 1px solid #949EA7;
     position: relative;
-    padding: 8px 8px 8px 26px
+    padding: 8px 8px 8px 26px;
     font-size: 90%;
     color: #909090;
 }
